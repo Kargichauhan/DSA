@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,5 +82,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
