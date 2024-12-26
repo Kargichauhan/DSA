@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
