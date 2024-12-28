@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
