@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Hash Table
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
