@@ -44,6 +44,7 @@
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+| [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
