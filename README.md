@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kargichauhan/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -146,5 +148,18 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+## Graph
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+## Topological Sort
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
