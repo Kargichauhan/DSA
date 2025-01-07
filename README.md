@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Divide and Conquer
 |  |
@@ -105,6 +107,7 @@
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
