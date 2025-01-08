@@ -2,18 +2,23 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
         res = defaultdict(list)
 
         for s in strs:
-            count = [0] * 26 # a....z
+            count = [0] * 26
+
             for c in s:
-                count[ord(c) - ord("a")] += 1
+                count[ord(c) - ord('a')] += 1
 
             res[tuple(count)].append(s)
-        return list(res.values()) # convert dict_value to a list
+
+
+        return list(res.values())
+        
 
       
 
 
-# TC: o(m*n*logn)
+# TC: o(m*n*logn) - m = no. of string , n = length
 #SC: O(m * n)
