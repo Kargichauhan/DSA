@@ -30,6 +30,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kargichauhan/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kargichauhan/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kargichauhan/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Suffix Array
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +240,9 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kargichauhan/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
