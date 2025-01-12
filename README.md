@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -41,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
@@ -55,6 +57,7 @@
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kargichauhan/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
