@@ -14,5 +14,4 @@ class Solution:
         for query in queries:
             ANS.append(Prefix[query[1] + 1] - Prefix[query[0]])
 
-
         return ANS
