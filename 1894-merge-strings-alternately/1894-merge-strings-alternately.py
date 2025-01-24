@@ -12,7 +12,7 @@ class Solution:
 
         ALgo:
 
-        Two pointer 
+        Two pointer + string traversal
 
         i - word 1 
         j - word 2 
