@@ -48,6 +48,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kargichauhan/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kargichauhan/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kargichauhan/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kargichauhan/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Hash Table
@@ -110,6 +111,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kargichauhan/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kargichauhan/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
