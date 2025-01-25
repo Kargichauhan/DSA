@@ -78,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -170,6 +171,7 @@
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Kargichauhan/DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
