@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kargichauhan/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Kargichauhan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Kargichauhan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
@@ -225,6 +227,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kargichauhan/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
