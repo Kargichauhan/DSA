@@ -42,6 +42,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Kargichauhan/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Kargichauhan/DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -165,6 +166,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kargichauhan/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1833-find-the-highest-altitude](https://github.com/Kargichauhan/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Kargichauhan/DSA/tree/master/2145-grid-game) |
