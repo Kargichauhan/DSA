@@ -104,6 +104,7 @@
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Kargichauhan/DSA/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -262,6 +263,7 @@
 | [0011-container-with-most-water](https://github.com/Kargichauhan/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
+| [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
