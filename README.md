@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kargichauhan/DSA/tree/master/1876-map-of-highest-peak) |
@@ -197,6 +199,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Kargichauhan/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -314,6 +317,7 @@
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
@@ -329,6 +333,7 @@
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
