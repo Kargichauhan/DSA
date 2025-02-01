@@ -321,6 +321,7 @@
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Kargichauhan/DSA/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Kargichauhan/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -337,6 +338,7 @@
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Kargichauhan/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -435,12 +437,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
