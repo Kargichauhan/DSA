@@ -14,10 +14,6 @@ class Solution:
                 return 0
             
 
-
-
-
-
             curr_sum += node.val #count no of valid paths 
             num_paths = prefix_sum.get(curr_sum - targetSum, 0)
 
