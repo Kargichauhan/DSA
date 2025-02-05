@@ -52,6 +52,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kargichauhan/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2145-grid-game](https://github.com/Kargichauhan/DSA/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kargichauhan/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -88,6 +89,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kargichauhan/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kargichauhan/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kargichauhan/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -296,6 +298,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kargichauhan/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Math
 |  |
 | ------- |
