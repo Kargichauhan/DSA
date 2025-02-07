@@ -252,6 +252,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Design
@@ -407,6 +409,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -467,4 +470,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
