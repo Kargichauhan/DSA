@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
