@@ -322,6 +322,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
 | ------- |
