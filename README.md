@@ -97,6 +97,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/Kargichauhan/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Kargichauhan/DSA/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kargichauhan/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -367,6 +368,7 @@
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
 ## Randomized
@@ -384,6 +386,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -403,6 +406,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
@@ -511,6 +515,7 @@
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -519,6 +524,7 @@
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
