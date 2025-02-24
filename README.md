@@ -36,6 +36,7 @@
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -93,6 +94,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/Kargichauhan/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -517,6 +520,7 @@
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -527,6 +531,7 @@
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
