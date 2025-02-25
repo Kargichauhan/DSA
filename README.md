@@ -51,6 +51,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kargichauhan/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kargichauhan/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -236,6 +237,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kargichauhan/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Kargichauhan/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -296,6 +298,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
