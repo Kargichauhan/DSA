@@ -72,6 +72,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kargichauhan/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kargichauhan/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Kargichauhan/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/Kargichauhan/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kargichauhan/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kargichauhan/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -192,6 +193,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kargichauhan/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/Kargichauhan/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kargichauhan/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
@@ -338,6 +340,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kargichauhan/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kargichauhan/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Kargichauhan/DSA/tree/master/2509-minimize-xor) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/Kargichauhan/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
 ## Backtracking
 |  |
 | ------- |
