@@ -59,6 +59,7 @@
 | [1876-map-of-highest-peak](https://github.com/Kargichauhan/DSA/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kargichauhan/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -107,6 +108,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kargichauhan/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -321,6 +323,7 @@
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kargichauhan/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kargichauhan/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kargichauhan/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -382,6 +385,7 @@
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
 ## Randomized
 |  |
@@ -465,6 +469,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Queue
 |  |
@@ -555,4 +560,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 <!---LeetCode Topics End-->
