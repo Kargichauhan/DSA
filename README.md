@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +270,7 @@
 | [0011-container-with-most-water](https://github.com/Kargichauhan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kargichauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kargichauhan/DSA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
