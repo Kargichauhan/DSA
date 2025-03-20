@@ -3,12 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nonzero, i = 0, 0
-        n = len(nums)
-        while i < n:
-            if nums[i] != 0:
-                nums[i], nums[nonzero] = nums[nonzero], nums[i]
-                nonzero += 1
-            i += 1
+        pos = 0 
+
+        for i in range(len(nums)):
+            el = nums[i]
+            if el != 0:
+                nums[pos], nums[i] = nums[i], nums[pos]
+                pos += 1
+
+
+
+
+
+
+
 
         
