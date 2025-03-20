@@ -99,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
@@ -136,6 +137,7 @@
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
@@ -178,6 +180,7 @@
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -509,6 +512,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Kargichauhan/DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kargichauhan/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
