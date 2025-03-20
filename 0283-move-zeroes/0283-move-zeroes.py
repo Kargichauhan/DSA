@@ -10,12 +10,4 @@ class Solution:
             if el != 0:
                 nums[pos], nums[i] = nums[i], nums[pos]
                 pos += 1
-
-
-
-
-
-
-
-
-        
+      
