@@ -1,48 +1,40 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         '''
-        Sketch:
-
-        W1 = [A B C D O P]
-
-        W2 = [P B R C]
-
-        OUTPUT - APBBCRDCOP
+        word 1 and word 2 - merge string 
 
 
-        ALgo:
+        two index i -> word 1 
+        j -> word 2 
 
-        Two pointer + string traversal
+        1. create len of m and n to store len of word 1 n word 2 
+        2. res -> variable 
+        3. two pointers i and j -> to point indices of word 1 and word 2 
+        4. while loop 
 
-        i - word 1 
-        j - word 2 
 
-        out of bound append extra word
 
-        TC: o(n + m)
-
-        SC: o(n + m )
 
         '''
 
-        
+        m = len(word1)
+        n = len(word2)
+
+        i = 0 
+        j = 0 
 
         res = []
 
-        min_len = min(len(word1), len(word2))
 
-        '''for i < len(word1) and j < len(word2):
-            res.append(word1[i])
-            res.append(word2[i])'''
+        while i < m or j < n:
+            if i < m:
+                res += word1[i]
+                i += 1
 
-        for i in range(min_len):
-            res.append(word1[i])
-            res.append(word2[i])
+            if j < n:
+                res += word2[j]
+                j += 1
 
-        if len(word1) > len(word2):
-            res.append(word1[min_len:])
-        else:
-            res.append(word2[min_len:])
 
         return "".join(res)
         
