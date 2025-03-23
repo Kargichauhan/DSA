@@ -1,16 +1,75 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        s = sorted(s)
-        t = sorted(t)
+        '''
+        bit manipulation
+        bitwise -> XOR -> help eliminate the alike and only leve the odd duckling
+        '''
 
-        #char by char comparison 
+        #initializing ch with 0, bcz 0 ^ x = x so when XOred with any bit would 
+        # not change the bits value
 
-        i = 0 
-        while i < len(s):
-            if s[i] != t[i]:
-                return t[i]
 
-            i += 1
+        ch = 0
 
-        return t[i]
+        #xor all the char of both s and t
+
+        for char_ in s:
+            ch ^= ord(char_)
+
+        for char_ in t:
+            ch ^= ord(char_)
+
+
+
+        #what is left after xoring everything is difference
+        return chr(ch)
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
