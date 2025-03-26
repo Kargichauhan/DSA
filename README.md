@@ -43,6 +43,7 @@
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
+| [1039-find-the-town-judge](https://github.com/Kargichauhan/DSA/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Kargichauhan/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Kargichauhan/DSA/tree/master/1364-tuple-with-same-product) |
@@ -104,6 +105,7 @@
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
+| [1039-find-the-town-judge](https://github.com/Kargichauhan/DSA/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/Kargichauhan/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Kargichauhan/DSA/tree/master/1364-tuple-with-same-product) |
@@ -455,6 +457,7 @@
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1039-find-the-town-judge](https://github.com/Kargichauhan/DSA/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Kargichauhan/DSA/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Kargichauhan/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
