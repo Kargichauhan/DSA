@@ -103,6 +103,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
+| [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
@@ -401,6 +402,7 @@
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -552,6 +554,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kargichauhan/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kargichauhan/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -595,4 +598,8 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Kargichauhan/DSA/tree/master/0277-find-the-celebrity) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
