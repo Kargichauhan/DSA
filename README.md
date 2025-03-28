@@ -339,6 +339,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0716-max-stack](https://github.com/Kargichauhan/DSA/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
@@ -419,6 +420,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
@@ -441,6 +443,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
