@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
+| [0256-paint-house](https://github.com/Kargichauhan/DSA/tree/master/0256-paint-house) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
@@ -316,6 +317,7 @@
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kargichauhan/DSA/tree/master/0152-maximum-product-subarray) |
+| [0256-paint-house](https://github.com/Kargichauhan/DSA/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
