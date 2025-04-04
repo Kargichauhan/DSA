@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
@@ -199,6 +200,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Kargichauhan/DSA/tree/master/0097-interleaving-string) |
