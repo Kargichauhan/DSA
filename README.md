@@ -379,6 +379,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
+| [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kargichauhan/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kargichauhan/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -622,6 +623,7 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Kargichauhan/DSA/tree/master/0277-find-the-celebrity) |
+| [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 ## Doubly-Linked List
 |  |
 | ------- |
