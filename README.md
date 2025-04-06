@@ -453,6 +453,7 @@
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0339-nested-list-weight-sum](https://github.com/Kargichauhan/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
+| [0366-find-leaves-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0684-redundant-connection](https://github.com/Kargichauhan/DSA/tree/master/0684-redundant-connection) |
@@ -578,6 +579,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
+| [0366-find-leaves-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
@@ -591,6 +593,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
+| [0366-find-leaves-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kargichauhan/DSA/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Kargichauhan/DSA/tree/master/0904-leaf-similar-trees) |
