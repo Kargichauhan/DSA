@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
@@ -193,6 +194,7 @@
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -296,6 +298,7 @@
 | [0277-find-the-celebrity](https://github.com/Kargichauhan/DSA/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kargichauhan/DSA/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -401,6 +404,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
+| [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
