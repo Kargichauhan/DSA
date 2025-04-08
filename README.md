@@ -39,6 +39,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kargichauhan/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
@@ -355,6 +356,7 @@
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0716-max-stack](https://github.com/Kargichauhan/DSA/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
 | [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
