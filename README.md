@@ -409,6 +409,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kargichauhan/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -540,6 +541,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kargichauhan/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
