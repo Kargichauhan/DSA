@@ -109,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
+| [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
@@ -152,6 +153,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
+| [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -567,6 +569,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [1487-cinema-seat-allocation](https://github.com/Kargichauhan/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
