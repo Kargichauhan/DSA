@@ -31,6 +31,7 @@
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
+| [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
@@ -112,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
 | [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
+| [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
@@ -257,6 +259,7 @@
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
+| [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
