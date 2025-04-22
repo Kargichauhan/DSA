@@ -48,6 +48,7 @@
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
@@ -119,6 +120,7 @@
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
+| [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Kargichauhan/DSA/tree/master/1039-find-the-town-judge) |
@@ -609,6 +611,7 @@
 | [0328-odd-even-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/Kargichauhan/DSA/tree/master/0716-max-stack) |
+| [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kargichauhan/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kargichauhan/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
