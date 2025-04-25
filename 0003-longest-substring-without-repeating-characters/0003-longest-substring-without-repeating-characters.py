@@ -7,22 +7,22 @@ class Solution:
         0 = 3
         '''
 
-        char_set = set()
-
-        left = 0 
-
+        i = 0 
         max_len = 0 
+        seen = set()
 
+        for j in range(len(s)):
+            while s[j] in seen:
+                seen.remove(s[i])
+                i += 1
 
-        for right in range(len(s)):
-            while s[right] in char_set:
-                char_set.remove(s[left])
-                left += 1
-
-            char_set.add(s[right])
-            max_len = max(max_len, right - left + 1)
+            seen.add(s[j])
+            max_len = max(max_len,j - i + 1)
 
         return max_len
+
+
+        
 
 
 
