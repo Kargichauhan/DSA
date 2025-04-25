@@ -6,9 +6,12 @@ class Solution:
 
         '''
 
-        counts = Counter(arr)
+        freq = Counter(arr)
 
-        return len(counts.values()) == len(set(counts.values()))
+        return len(set(freq.values())) == len(freq)
+
+
+       
 
 
         
