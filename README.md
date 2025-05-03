@@ -56,6 +56,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Kargichauhan/DSA/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Kargichauhan/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1319-unique-number-of-occurrences](https://github.com/Kargichauhan/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Kargichauhan/DSA/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kargichauhan/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -406,6 +407,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Kargichauhan/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1487-cinema-seat-allocation](https://github.com/Kargichauhan/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
