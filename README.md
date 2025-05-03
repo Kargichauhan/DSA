@@ -81,6 +81,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kargichauhan/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2102-find-the-middle-index-in-array](https://github.com/Kargichauhan/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Kargichauhan/DSA/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Kargichauhan/DSA/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kargichauhan/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -298,6 +299,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Kargichauhan/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kargichauhan/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/Kargichauhan/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/Kargichauhan/DSA/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kargichauhan/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Kargichauhan/DSA/tree/master/2465-shifting-letters-ii) |
