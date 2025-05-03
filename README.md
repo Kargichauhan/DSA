@@ -46,6 +46,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kargichauhan/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Kargichauhan/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
@@ -222,6 +223,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Kargichauhan/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
