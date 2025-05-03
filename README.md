@@ -180,6 +180,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Kargichauhan/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
+| [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -331,6 +332,7 @@
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kargichauhan/DSA/tree/master/0443-string-compression) |
+| [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Kargichauhan/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -361,6 +363,7 @@
 | [0256-paint-house](https://github.com/Kargichauhan/DSA/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
