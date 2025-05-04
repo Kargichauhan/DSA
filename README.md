@@ -433,6 +433,7 @@
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 | [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kargichauhan/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kargichauhan/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Kargichauhan/DSA/tree/master/2107-find-unique-binary-string) |
@@ -464,6 +465,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kargichauhan/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -619,6 +621,7 @@
 | ------- |
 | [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1487-cinema-seat-allocation](https://github.com/Kargichauhan/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Kargichauhan/DSA/tree/master/2509-minimize-xor) |
