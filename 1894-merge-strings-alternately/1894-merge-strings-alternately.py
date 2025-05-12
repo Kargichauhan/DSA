@@ -1,40 +1,49 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         '''
-        word 1 and word 2 - merge string 
+        breakdown:
 
+        -> merge the string by adding letters
+        -> letters in the alternating order 
+        -> if the len of word is > other other then add 
+        that greater word len to the end of merged string
 
-        two index i -> word 1 
-        j -> word 2 
+        Approach:
 
-        1. create len of m and n to store len of word 1 n word 2 
-        2. res -> variable 
-        3. two pointers i and j -> to point indices of word 1 and word 2 
-        4. while loop 
+        -> two pointer
+        -> sliding window 
 
+        word 1 (i) -> pointer will go over each index of word 1
+        word 2 (j) -> pointer will go over each index of word 2
 
+        res = [] -> output alternative combination
 
+        edge case: lower case (case sensitive) + no words ?
+
+        Complexity
+
+        o(n + m) -> time complexity
+        o(1) -> SC
 
         '''
 
-        m = len(word1)
-        n = len(word2)
-
-        i = 0 
-        j = 0 
-
+        i, j = 0, 0 
         res = []
 
+        while i  < len(word1) and j < len(word2): # INBOUND 
+            res.append(word1[i]) # OUTPUT -> APPEND
+            res.append(word2[j])
 
-        while i < m or j < n:
-            if i < m:
-                res += word1[i]
-                i += 1
+            i += 1 # increment 
+            j += 1
 
-            if j < n:
-                res += word2[j]
-                j += 1
+        res.append(word1[i:]) # IF WORDS NOT SAME LEN -> COMBINE THE REMANING
+        res.append(word2[j:])
+
+        return "".join(res) #JOIN THE RES
 
 
-        return "".join(res)
         
+
+        
+
