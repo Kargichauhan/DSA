@@ -1,55 +1,39 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         '''
-        Sketch:
+        breakdown:
+        -> flowerbed (plants)
+        -> cannot be planted in adjacent plots
 
-        0 = empty 
-        1 = not empty
+        0's = empty
+        1's = non-empty
 
-        return True -> if new flower can be planted 
-
-        Input: 
-        
-        flowerbed = [1,0,0,0,1]
-        
-        n = 1
+        Approach:
+        flowerbed in array 
+        greedy 
 
 
-        Output: true
-
-        Algo:
-
-        empty = 0 
-        not_empty = 1 
-
-
-        i -> iterate over the array 
-        i -> 1 (count) -> true 
-        adjacent
-
-
-        TC: constant(1)
-
-
-        SC: constant(1)
+        empty flowerbed 
 
 
         '''
 
-        if n == 0: return True
-
-
         for i in range(len(flowerbed)):
-            left = (i == 0) or (flowerbed[i-1] == 0)
-            right = (i == len(flowerbed) - 1) or flowerbed[i + 1] == 0
+            # only try to plant in an empty spot
+            if flowerbed[i] == 0:
+                empty_left  = (i == 0) or (flowerbed[i-1] == 0)
+                empty_right = (i == len(flowerbed)-1) or (flowerbed[i+1] == 0)
 
-            if left and right and flowerbed[i] == 0:
-                flowerbed[i] = 1
-                n -= 1
+                if empty_left and empty_right:
+                    flowerbed[i] = 1  # plant here
+                    n -= 1
+                    if n == 0:
+                        return True
+        return n <= 0
 
-                if n == 0: return True
 
-        return False
+
+        
 
          
 
