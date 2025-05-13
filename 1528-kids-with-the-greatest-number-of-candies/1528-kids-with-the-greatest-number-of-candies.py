@@ -2,39 +2,47 @@ class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         
         ''''
+        Breakdown:
 
-        Sketch:
+        -> kids = candies each [i] = number of candies ith kid have
+        -> extracandies = extra candies you have
 
-        Candies = [2,3,5,1,3] 
-        extraCandies = 3
-
-        [5,6,8,4,6]
-        [true,true,true,false,true] 
+        -> true if after giving extra candies (greatest)
+        -> false
 
 
-        Algo: max num - iterate thru list of max no. of candies any child currently has 
+        Approach:
 
-        TC: constant
+        len(candies ) + extracandies = [res] 
+        in the res -> greatest among or also use max[res] 
+        min[res] = False other all true
 
-        SC: constant
-        
-        
+        Complexity:
+
+        o(n)
+        o(n)
+
         '''
 
-
-        maxi = max(candies)
+        maxCandies = max(candies)
         res = []
 
-        for candy in candies:
-            if candy + extraCandies >= maxi:
+
+        for i in candies:
+            if i + extraCandies >= maxCandies:
                 res.append(True)
 
             else: res.append(False)
 
-
         return res
 
 
+
+        
+
+
+
+        
 
 
         
