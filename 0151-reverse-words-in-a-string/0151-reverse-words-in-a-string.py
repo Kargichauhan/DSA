@@ -9,23 +9,22 @@ class Solution:
 
             seperate word by whitespaces
 
-
-        
-
         Algo:
 
         split to remove whitespace
 
 
-        TC:
+        TC: o(n)
 
-        SC:
+        SC: o(n)
 
 
 
         '''
 
         return " ".join(reversed(s.split()))
+
+        
 
         
         
