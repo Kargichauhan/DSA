@@ -376,6 +376,7 @@
 | [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Kargichauhan/DSA/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -470,6 +471,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Kargichauhan/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -703,6 +705,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
