@@ -50,6 +50,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kargichauhan/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Kargichauhan/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
@@ -385,6 +386,7 @@
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
