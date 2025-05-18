@@ -22,6 +22,7 @@
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kargichauhan/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Kargichauhan/DSA/tree/master/0198-house-robber) |
@@ -126,6 +127,7 @@
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kargichauhan/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Kargichauhan/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kargichauhan/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -181,6 +183,7 @@
 | [0091-decode-ways](https://github.com/Kargichauhan/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Kargichauhan/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
@@ -388,6 +391,7 @@
 | [0097-interleaving-string](https://github.com/Kargichauhan/DSA/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Kargichauhan/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kargichauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kargichauhan/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kargichauhan/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kargichauhan/DSA/tree/master/0213-house-robber-ii) |
@@ -644,6 +648,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -722,6 +727,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Indexed Tree
