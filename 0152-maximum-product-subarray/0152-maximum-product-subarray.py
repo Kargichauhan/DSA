@@ -1,23 +1,22 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
+        res = max(nums)
+        curMin, curMax = 1,1
 
-        if not nums:
-            return 0
+        for n in nums:
+            if n == 0:
+                curMin, curMax = 1, 1
+                continue
+            tmp = curMax * n
+            curMax = max(n * curMax, n * curMin, n)
+            curMin = min(tmp, n * curMin, n)
 
-        max_prod = nums[0]
-        curr_max, curr_min = nums[0], nums[0]
+            res = max(res,curMax)
 
-        for i in range(1, len(nums)):
-            num = nums[i]
-            if num < 0:
-                curr_max, curr_min = curr_min, curr_max  # Swap when negative
+        return res
 
-            curr_max = max(num, curr_max * num)
-            curr_min = min(num, curr_min * num)
 
-            max_prod = max(max_prod, curr_max)
-
-        return max_prod
+        
 
 
 
