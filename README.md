@@ -37,6 +37,7 @@
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
 | [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
+| [0322-coin-change](https://github.com/Kargichauhan/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
@@ -391,6 +392,7 @@
 | [0198-house-robber](https://github.com/Kargichauhan/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kargichauhan/DSA/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/Kargichauhan/DSA/tree/master/0256-paint-house) |
+| [0322-coin-change](https://github.com/Kargichauhan/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -523,6 +525,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
+| [0322-coin-change](https://github.com/Kargichauhan/DSA/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/Kargichauhan/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
