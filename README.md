@@ -37,6 +37,7 @@
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0322-coin-change](https://github.com/Kargichauhan/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -375,6 +376,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -396,6 +398,7 @@
 | [0198-house-robber](https://github.com/Kargichauhan/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kargichauhan/DSA/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/Kargichauhan/DSA/tree/master/0256-paint-house) |
+| [0300-longest-increasing-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kargichauhan/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
