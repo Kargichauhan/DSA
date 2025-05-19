@@ -387,6 +387,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kargichauhan/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
@@ -493,6 +494,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kargichauhan/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
@@ -754,4 +756,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kargichauhan/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
