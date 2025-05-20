@@ -209,6 +209,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/Kargichauhan/DSA/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kargichauhan/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kargichauhan/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Kargichauhan/DSA/tree/master/1524-string-matching-in-an-array) |
@@ -413,6 +414,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1236-n-th-tribonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Kargichauhan/DSA/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Rolling Hash
