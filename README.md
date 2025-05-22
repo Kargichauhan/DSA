@@ -642,6 +642,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kargichauhan/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Kargichauhan/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
@@ -692,6 +693,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kargichauhan/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/Kargichauhan/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kargichauhan/DSA/tree/master/0328-odd-even-linked-list) |
