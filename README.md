@@ -437,6 +437,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kargichauhan/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kargichauhan/DSA/tree/master/0155-min-stack) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Kargichauhan/DSA/tree/master/0364-nested-list-weight-sum-ii) |
 | [0394-decode-string](https://github.com/Kargichauhan/DSA/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -519,6 +520,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kargichauhan/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Kargichauhan/DSA/tree/master/0155-min-stack) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
