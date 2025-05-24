@@ -206,6 +206,7 @@
 | [0647-palindromic-substrings](https://github.com/Kargichauhan/DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -366,6 +367,7 @@
 | [0443-string-compression](https://github.com/Kargichauhan/DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Kargichauhan/DSA/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Kargichauhan/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -444,6 +446,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0716-max-stack](https://github.com/Kargichauhan/DSA/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kargichauhan/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kargichauhan/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -685,6 +688,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kargichauhan/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kargichauhan/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Kargichauhan/DSA/tree/master/2470-removing-stars-from-a-string) |
