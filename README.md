@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kargichauhan/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kargichauhan/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kargichauhan/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kargichauhan/DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Kargichauhan/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
@@ -687,6 +689,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kargichauhan/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kargichauhan/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
