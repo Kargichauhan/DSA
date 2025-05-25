@@ -510,6 +510,7 @@
 | [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kargichauhan/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Kargichauhan/DSA/tree/master/0319-bulb-switcher) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -691,6 +692,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Kargichauhan/DSA/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kargichauhan/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Simulation
 |  |
