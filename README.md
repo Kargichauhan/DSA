@@ -53,6 +53,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kargichauhan/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -416,6 +417,7 @@
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kargichauhan/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Kargichauhan/DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kargichauhan/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
 | [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
