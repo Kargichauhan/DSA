@@ -54,6 +54,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Kargichauhan/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Kargichauhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Kargichauhan/DSA/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/Kargichauhan/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Kargichauhan/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -147,6 +148,7 @@
 | [0389-find-the-difference](https://github.com/Kargichauhan/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kargichauhan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/Kargichauhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -330,6 +332,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kargichauhan/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kargichauhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kargichauhan/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
