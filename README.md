@@ -808,4 +808,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Kargichauhan/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
