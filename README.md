@@ -255,6 +255,7 @@
 | [0088-merge-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Kargichauhan/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
@@ -279,6 +280,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kargichauhan/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kargichauhan/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Kargichauhan/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -376,6 +378,7 @@
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
 | [0277-find-the-celebrity](https://github.com/Kargichauhan/DSA/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/Kargichauhan/DSA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Kargichauhan/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kargichauhan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0360-sort-transformed-array](https://github.com/Kargichauhan/DSA/tree/master/0360-sort-transformed-array) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
@@ -552,6 +555,7 @@
 | [0155-min-stack](https://github.com/Kargichauhan/DSA/tree/master/0155-min-stack) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Kargichauhan/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/Kargichauhan/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Kargichauhan/DSA/tree/master/0432-all-oone-data-structure) |
@@ -656,6 +660,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kargichauhan/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
