@@ -51,6 +51,7 @@
 | [0376-wiggle-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Kargichauhan/DSA/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/Kargichauhan/DSA/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kargichauhan/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -426,6 +427,7 @@
 | [0368-largest-divisible-subset](https://github.com/Kargichauhan/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Kargichauhan/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Kargichauhan/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Kargichauhan/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
