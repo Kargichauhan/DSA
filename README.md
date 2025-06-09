@@ -83,6 +83,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kargichauhan/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kargichauhan/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Kargichauhan/DSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1487-cinema-seat-allocation](https://github.com/Kargichauhan/DSA/tree/master/1487-cinema-seat-allocation) |
@@ -443,6 +444,7 @@
 | [1129-longest-string-chain](https://github.com/Kargichauhan/DSA/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Kargichauhan/DSA/tree/master/1250-longest-common-subsequence) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Kargichauhan/DSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1583-paint-house-iii](https://github.com/Kargichauhan/DSA/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
