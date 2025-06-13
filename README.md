@@ -402,6 +402,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kargichauhan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Kargichauhan/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Kargichauhan/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/Kargichauhan/DSA/tree/master/0362-design-hit-counter) |
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
@@ -804,6 +805,7 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Kargichauhan/DSA/tree/master/0277-find-the-celebrity) |
+| [0278-first-bad-version](https://github.com/Kargichauhan/DSA/tree/master/0278-first-bad-version) |
 | [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 ## Doubly-Linked List
 |  |
