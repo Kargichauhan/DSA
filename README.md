@@ -590,6 +590,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Kargichauhan/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Kargichauhan/DSA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
+| [1142-minimum-knight-moves](https://github.com/Kargichauhan/DSA/tree/master/1142-minimum-knight-moves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kargichauhan/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kargichauhan/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
