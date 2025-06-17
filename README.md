@@ -575,6 +575,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kargichauhan/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/Kargichauhan/DSA/tree/master/0269-alien-dictionary) |
@@ -603,6 +604,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kargichauhan/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
@@ -752,6 +754,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kargichauhan/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -771,6 +774,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kargichauhan/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kargichauhan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0156-binary-tree-upside-down](https://github.com/Kargichauhan/DSA/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kargichauhan/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
