@@ -12,8 +12,3 @@ class Solution:
             maxL = max(maxL, right - left + 1)
 
         return maxL
-
-                
-
-
-        
