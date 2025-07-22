@@ -95,6 +95,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Kargichauhan/DSA/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kargichauhan/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Kargichauhan/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Kargichauhan/DSA/tree/master/1876-map-of-highest-peak) |
@@ -170,6 +171,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Kargichauhan/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kargichauhan/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Kargichauhan/DSA/tree/master/1813-maximum-erasure-value) |
 | [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kargichauhan/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Kargichauhan/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -526,6 +528,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kargichauhan/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/Kargichauhan/DSA/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Kargichauhan/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kargichauhan/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
