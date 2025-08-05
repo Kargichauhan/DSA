@@ -1,29 +1,27 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        
-        vowels = set('aeiouAEIOU')
 
-        res = []
+        s = list(s)
 
-        for ch in s:
-            if ch in vowels:
-                res.append(ch)
+        # These are our fairy letters
+        vowels = set("aeiouAEIOU")
 
-        res.reverse()
+        # Left finger and right finger
+        left, right = 0, len(s) - 1
 
-        out_chars = []
-        vi = 0 #index into extracted list
+        # Keep going until fingers meet
+        while left < right:
+            # If left is not a vowel, move right
+            if s[left] not in vowels:
+                left += 1
+            # If right is not a vowel, move left
+            elif s[right] not in vowels:
+                right -= 1
+            else:
+                # Both are vowels — let's swap!
+                s[left], s[right] = s[right], s[left]
+                left += 1
+                right -= 1
 
-        for ch in s:
-            if ch in vowels:
-                out_chars.append(res[vi])
-                vi += 1
-
-            else: out_chars.append(ch)
-
-
-        return "".join(out_chars)
-
-
-
-        
+        # Join the letters back into a string and return
+        return "".join(s)
