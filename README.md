@@ -132,6 +132,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kargichauhan/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Kargichauhan/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [0792-binary-search](https://github.com/Kargichauhan/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kargichauhan/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -680,6 +682,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1903-design-most-recently-used-queue](https://github.com/Kargichauhan/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -743,6 +746,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kargichauhan/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kargichauhan/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Kargichauhan/DSA/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -833,4 +837,8 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Kargichauhan/DSA/tree/master/0595-big-countries) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
