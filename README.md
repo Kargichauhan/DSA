@@ -125,6 +125,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Kargichauhan/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kargichauhan/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kargichauhan/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kargichauhan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kargichauhan/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kargichauhan/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
