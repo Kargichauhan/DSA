@@ -561,6 +561,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/Kargichauhan/DSA/tree/master/3830-find-closest-person) |
 ## Design
 |  |
 | ------- |
