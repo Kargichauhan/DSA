@@ -9,3 +9,10 @@ class Solution:
                     return True
 
         return n <= 0
+        
+        
+        
+        
+        
+        
+        
