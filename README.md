@@ -29,6 +29,7 @@
 | [0198-house-robber](https://github.com/Kargichauhan/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kargichauhan/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Kargichauhan/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Kargichauhan/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Kargichauhan/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kargichauhan/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -206,6 +207,7 @@
 | [0125-valid-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Kargichauhan/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Kargichauhan/DSA/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Kargichauhan/DSA/tree/master/0244-shortest-word-distance-ii) |
 | [0266-palindrome-permutation](https://github.com/Kargichauhan/DSA/tree/master/0266-palindrome-permutation) |
@@ -329,6 +331,7 @@
 | [0063-unique-paths-ii](https://github.com/Kargichauhan/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kargichauhan/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kargichauhan/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Kargichauhan/DSA/tree/master/0212-word-search-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/Kargichauhan/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0407-trapping-rain-water-ii](https://github.com/Kargichauhan/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Kargichauhan/DSA/tree/master/0733-flood-fill) |
@@ -512,6 +515,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kargichauhan/DSA/tree/master/0046-permutations) |
+| [0212-word-search-ii](https://github.com/Kargichauhan/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Kargichauhan/DSA/tree/master/0494-target-sum) |
 | [0865-robot-room-cleaner](https://github.com/Kargichauhan/DSA/tree/master/0865-robot-room-cleaner) |
 | [1160-letter-tile-possibilities](https://github.com/Kargichauhan/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -723,6 +727,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kargichauhan/DSA/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Kargichauhan/DSA/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kargichauhan/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
