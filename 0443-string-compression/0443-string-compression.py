@@ -28,32 +28,27 @@ class Solution:
 
         
         '''
+        write = 0 
+        read = 0 
 
-        r , i = 0 , 0
+        while read < len(chars):
+            char = chars[read]
+            count = 0 
 
-        while (i < len(chars)):
-            currChar = chars[i]
+            while read < len(chars) and chars[read] == char:
+                read += 1
+                count += 1 
+            chars[write] = char
+            write += 1
 
-            currOcc = 0
+            if count > 1:
+                for digit in str(count):
+                    chars[write] = digit
+                    write += 1
+        return write
 
 
-            while ((i < len(chars)) and (chars[i] == currChar)):
-                currOcc += 1
-                i += 1
-
-            
-
-            chars[r] = currChar
-
-            r += 1
-
-            if (currOcc > 1):
-                currOccStr = str(currOcc)
-                for j in range(len(currOccStr)):
-                    chars[r] = currOccStr[j]
-                    r += 1
-        return r
-
+        
 
 
 
