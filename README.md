@@ -555,6 +555,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kargichauhan/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kargichauhan/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
