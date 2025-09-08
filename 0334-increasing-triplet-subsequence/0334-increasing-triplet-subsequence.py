@@ -42,18 +42,15 @@ class Solution:
 
         n1 = float('inf')
         n2 = float('inf')
-
         for n in nums:
             if n > n2:
-                return True
-                
+                return True 
             elif (n <= n1):
                 n1 = n
-
             else:
                 n2 = n
-             
-        return False 
+
+        return False
 
             
         
