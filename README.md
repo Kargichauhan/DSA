@@ -461,6 +461,7 @@
 | [1583-paint-house-iii](https://github.com/Kargichauhan/DSA/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kargichauhan/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Kargichauhan/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -679,6 +680,7 @@
 | [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Kargichauhan/DSA/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kargichauhan/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Kargichauhan/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Data Stream
 |  |
 | ------- |
@@ -753,6 +755,7 @@
 | [0735-asteroid-collision](https://github.com/Kargichauhan/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kargichauhan/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Kargichauhan/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kargichauhan/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Kargichauhan/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kargichauhan/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
