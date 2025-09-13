@@ -192,6 +192,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kargichauhan/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kargichauhan/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Kargichauhan/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
