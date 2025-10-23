@@ -263,6 +263,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -578,6 +579,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Kargichauhan/DSA/tree/master/3830-find-closest-person) |
 ## Design
 |  |
@@ -775,6 +777,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kargichauhan/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kargichauhan/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Kargichauhan/DSA/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kargichauhan/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
@@ -863,6 +866,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kargichauhan/DSA/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -875,4 +879,8 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
