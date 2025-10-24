@@ -184,6 +184,7 @@
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kargichauhan/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Kargichauhan/DSA/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kargichauhan/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kargichauhan/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Kargichauhan/DSA/tree/master/2434-design-a-number-container-system) |
@@ -326,6 +327,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Kargichauhan/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kargichauhan/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Kargichauhan/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -535,6 +537,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kargichauhan/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kargichauhan/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Kargichauhan/DSA/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kargichauhan/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
@@ -575,6 +578,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Kargichauhan/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kargichauhan/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kargichauhan/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kargichauhan/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kargichauhan/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -860,6 +864,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kargichauhan/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Combinatorics
