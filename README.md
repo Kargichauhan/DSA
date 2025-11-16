@@ -263,6 +263,7 @@
 | [3447-clear-digits](https://github.com/Kargichauhan/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kargichauhan/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Kargichauhan/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Kargichauhan/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Kargichauhan/DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kargichauhan/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -557,6 +558,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Kargichauhan/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/Kargichauhan/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kargichauhan/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Kargichauhan/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Math
 |  |
 | ------- |
@@ -868,6 +870,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kargichauhan/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kargichauhan/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kargichauhan/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Kargichauhan/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Combinatorics
 |  |
 | ------- |
