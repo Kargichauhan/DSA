@@ -71,6 +71,7 @@
 | [0835-linked-list-components](https://github.com/Kargichauhan/DSA/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Kargichauhan/DSA/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Kargichauhan/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kargichauhan/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kargichauhan/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -239,6 +240,7 @@
 | [0649-dota2-senate](https://github.com/Kargichauhan/DSA/tree/master/0649-dota2-senate) |
 | [0868-push-dominoes](https://github.com/Kargichauhan/DSA/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Kargichauhan/DSA/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Kargichauhan/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
