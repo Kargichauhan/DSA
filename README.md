@@ -243,6 +243,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Kargichauhan/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Kargichauhan/DSA/tree/master/0952-word-subsets) |
 | [1060-longest-repeating-substring](https://github.com/Kargichauhan/DSA/tree/master/1060-longest-repeating-substring) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kargichauhan/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kargichauhan/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/Kargichauhan/DSA/tree/master/1129-longest-string-chain) |
@@ -597,6 +598,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Kargichauhan/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/Kargichauhan/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kargichauhan/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Kargichauhan/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Kargichauhan/DSA/tree/master/1359-circular-permutation-in-binary-representation) |
