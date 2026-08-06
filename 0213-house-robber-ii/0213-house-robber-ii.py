@@ -1,16 +1,14 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        return max(nums[0], self.helper(nums[1:]), self.helper(nums[:-1]))
+        n = len(nums)
+        if n == 1:
+            return nums[0]
 
+        def scan(lo, hi):                 # inclusive lo, exclusive hi
+            prev2 = prev1 = 0
+            for i in range(lo, hi):
+                prev2, prev1 = prev1, max(prev1, prev2 + nums[i])
+            return prev1
 
-    def helper(self, nums):
-        rob1, rob2 = 0, 0
-
-        for n in nums:
-            newRob = max(n + rob1, rob2)
-
-            rob1 = rob2
-            rob2 = newRob
-
-        return rob2
+        return max(scan(1, n), scan(0, n - 1))
         
