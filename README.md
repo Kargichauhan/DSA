@@ -925,4 +925,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Kargichauhan/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/Kargichauhan/DSA/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
